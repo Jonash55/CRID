@@ -3,7 +3,7 @@ import splitfolders
 path_to_data = "../dataset"
 path_to_output = "split"
 seed = 1337
-ratio = (0.8, 0.1, 0.1)
+ratio = (0.7, 0.3)
 
 
 def split_data():
