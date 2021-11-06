@@ -1,2 +1,2 @@
-# CRAI
-Cleaning Robot based on artificial intelligence
+# CRID
+Cleaning Robot based on image detection
