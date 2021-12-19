@@ -130,3 +130,6 @@ dmypy.json
 
 # PyTorch models
 .pth
+
+# Tensorboard runs
+.runs/
